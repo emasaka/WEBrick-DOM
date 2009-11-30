@@ -2,6 +2,10 @@
 
 Wraps WEBrick to support X-Path: request header.
 
+== Warning
+
+This is a joke library.
+
 == Example
 
   require 'webrick/dom'
